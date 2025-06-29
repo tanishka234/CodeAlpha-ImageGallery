@@ -13,7 +13,7 @@
 - ## 📸 Demo
 
 > Click on any image to open the lightbox and navigate using the arrows.
-![Screenshot]()
+![Screenshot](https://github.com/tanishka234/CodeAlpha-ImageGallery/blob/main/Screenshot%202025-06-29%20232418.png)
 
 ## 📁 Project Structure
 
